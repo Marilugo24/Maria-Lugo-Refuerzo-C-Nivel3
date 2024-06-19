@@ -1,0 +1,14 @@
+C:\Users\Maria\OneDrive\Documentos\C#\Maria_LugoRefuerzoC#Nivel3\Buscador_Numero_Primo\bin\Debug\net8.0\Buscador_Numero_Primo.exe
+C:\Users\Maria\OneDrive\Documentos\C#\Maria_LugoRefuerzoC#Nivel3\Buscador_Numero_Primo\bin\Debug\net8.0\Buscador_Numero_Primo.deps.json
+C:\Users\Maria\OneDrive\Documentos\C#\Maria_LugoRefuerzoC#Nivel3\Buscador_Numero_Primo\bin\Debug\net8.0\Buscador_Numero_Primo.runtimeconfig.json
+C:\Users\Maria\OneDrive\Documentos\C#\Maria_LugoRefuerzoC#Nivel3\Buscador_Numero_Primo\bin\Debug\net8.0\Buscador_Numero_Primo.dll
+C:\Users\Maria\OneDrive\Documentos\C#\Maria_LugoRefuerzoC#Nivel3\Buscador_Numero_Primo\bin\Debug\net8.0\Buscador_Numero_Primo.pdb
+C:\Users\Maria\OneDrive\Documentos\C#\Maria_LugoRefuerzoC#Nivel3\Buscador_Numero_Primo\obj\Debug\net8.0\Buscador_Numero_Primo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\OneDrive\Documentos\C#\Maria_LugoRefuerzoC#Nivel3\Buscador_Numero_Primo\obj\Debug\net8.0\Buscador_Numero_Primo.AssemblyInfoInputs.cache
+C:\Users\Maria\OneDrive\Documentos\C#\Maria_LugoRefuerzoC#Nivel3\Buscador_Numero_Primo\obj\Debug\net8.0\Buscador_Numero_Primo.AssemblyInfo.cs
+C:\Users\Maria\OneDrive\Documentos\C#\Maria_LugoRefuerzoC#Nivel3\Buscador_Numero_Primo\obj\Debug\net8.0\Buscador_Numero_Primo.csproj.CoreCompileInputs.cache
+C:\Users\Maria\OneDrive\Documentos\C#\Maria_LugoRefuerzoC#Nivel3\Buscador_Numero_Primo\obj\Debug\net8.0\Buscador_Numero_Primo.dll
+C:\Users\Maria\OneDrive\Documentos\C#\Maria_LugoRefuerzoC#Nivel3\Buscador_Numero_Primo\obj\Debug\net8.0\refint\Buscador_Numero_Primo.dll
+C:\Users\Maria\OneDrive\Documentos\C#\Maria_LugoRefuerzoC#Nivel3\Buscador_Numero_Primo\obj\Debug\net8.0\Buscador_Numero_Primo.pdb
+C:\Users\Maria\OneDrive\Documentos\C#\Maria_LugoRefuerzoC#Nivel3\Buscador_Numero_Primo\obj\Debug\net8.0\Buscador_Numero_Primo.genruntimeconfig.cache
+C:\Users\Maria\OneDrive\Documentos\C#\Maria_LugoRefuerzoC#Nivel3\Buscador_Numero_Primo\obj\Debug\net8.0\ref\Buscador_Numero_Primo.dll
