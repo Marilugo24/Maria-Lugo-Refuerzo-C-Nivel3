@@ -3,10 +3,10 @@
 Console.WriteLine("Buscador de Números Primos.");
 bool EsPrimo(int numero)
 {
-    if (numero < 2)
+    if (numero < 1)
         return false;
 
-    for (int i = 2; i <= Math.Sqrt(numero); i++)
+   for (int i = 2; i * i <= numero; i++)
     {
         if (numero % i == 0)
             return false;
@@ -23,10 +23,10 @@ int fin = int.Parse(Console.ReadLine());
 
 List<int> PrimosEncontrados = new List<int>();
 
-for (int num = inicio; num <= fin; num++)
+for (int numero = inicio; numero <= fin; numero++)
 {
-    if (EsPrimo(num))
-        PrimosEncontrados.Add(num);
+    if (EsPrimo(numero))
+        PrimosEncontrados.Add(numero);
 }
 
 Console.WriteLine("Números primos encontrados:");
